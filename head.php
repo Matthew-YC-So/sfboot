@@ -32,7 +32,7 @@
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
   </head>
-  <body>
+  <body class = "<?php echo "lang_$lang"; ?>">
 	<!-- NAVBAR
 	================================================== -->
 	<div class="navbar-wrapper">
@@ -47,7 +47,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><?php echo $msg["CompanyName"]; ?></a>
+                            <a class="navbar-brand text-hide" href="#"><?php echo $msg["CompanyName"]; ?></a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
@@ -59,17 +59,7 @@
 					<ul class="dropdown-menu">
 					<li><a <?php echo isset($_GET['lang']) && strnatcasecmp($_GET['lang'], 'zh') === 0 ? 'class="selected"' : "href='" . getAssignQueryString('lang','zh') . "'" ; ?>><?php echo $msg["Chinese"]; ?></a></li>
 					<li><a <?php echo isset($_GET['lang']) && strnatcasecmp($_GET['lang'], 'en') === 0 ? 'class="selected"' : "href='" . getAssignQueryString('lang','en') . "'" ; ?>><?php echo $msg["English"]; ?></a></li>
-
-<?php
-	
-	/*					
-					<li role="separator" class="divider"></li>
-					<li class="dropdown-header">Nav header</li>
-					<li><a href="http://getbootstrap.com/examples/carousel/#">Separated link</a></li>
-					<li><a href="http://getbootstrap.com/examples/carousel/#">One more separated link</a></li>
-	*/					
-?>					
-					</ul>
+				</ul>
 				</li>
 				</ul>
 			</div>

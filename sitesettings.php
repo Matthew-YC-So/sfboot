@@ -7,5 +7,6 @@ $lang = !isset($_REQUEST["lang"]) ? "en" : $_REQUEST["lang"] ;
 $msg_file =  "i18n/messages-".$lang.".php"; 
 require_once($msg_file) ;
 
+$logo = "images/logo38_222_$lang.png" ;
 
 ?>
