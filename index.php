@@ -80,8 +80,8 @@
         <div class="col-lg-4">
             <img class="img-circle" src="images/erp.jpg" alt="ERP System" width="140" height="140">
           <h2>ERP System</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="http://getbootstrap.com/examples/carousel/#" role="button">View details »</a></p>
+          <p>Our EPR system is a web application that runs on any device over Internet.  No VPN is required and geographically diverse location is not an issue.</p>
+          <p><a class="btn btn-default" href="#erp-details" role="button">View details »</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -132,10 +132,11 @@
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <div class="row featurette" id="erp-details">
         <div class="col-md-7">
           <h2 class="featurette-heading">Web based ERP System. <span class="text-muted">High performance ERP system you are looking for.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead">Our ERP system is based on web application.  This makes zero deployment effort to each client as the only requirement is browser.
+            As web server can be putted in any country and city, you can choose where to centralized your company's database.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
