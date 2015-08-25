@@ -107,7 +107,7 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">High quality software makes the difference. <span class="text-muted">It'll multiply company's productivity.</span></h2>
           <p class="lead">High quality software is not just only bug free but it evolves over time. Since, we know you are concerned today's software cannot be easily extended with business requirement, we have putted huge effort that includes utilizing proven modern software engineering, adopting most frequent used programming languages, ensuring good response time and taking care easy of maintenance.</p>
-          <p class="lead">The following shortlisted tools, languages, frameworks and techniques are used in our team:
+          <p class="lead">The following shortlisted tools, languages, frameworks and techniques are used in our team:</p>
           <ul>
               <li>Visual Studio 2013</li>
               <li>C# language</li>
@@ -135,8 +135,14 @@
       <div class="row featurette" id="erp-details">
         <div class="col-md-7">
           <h2 class="featurette-heading">Web based ERP System. <span class="text-muted">High performance ERP system you are looking for.</span></h2>
-          <p class="lead">Our ERP system is based on web application.  This makes zero deployment effort to each client as the only requirement is browser.
-            As web server can be putted in any country and city, you can choose where to centralized your company's database.</p>
+          <p class="lead">Our ERP system is based on web application.  This makes zero deployment effort to each client as only browser is required.
+            As web server can be putted in any country and city, you can choose where to centralized your company's database.  A typical example is installed the web server in Hong Kong and serves clients in China.</p>
+          <p class="lead">Our ERP system has the following characteristics:</p>          
+          <ul>
+              <li>HTML 5 is enabled whenever browser is supported so that user can have richer usage experience</li>
+              <li>Responsive Web Design (RWD) for web pages that can be viewed using many different devices: desktops, tablets, and phones and still look good, and be easy to use.</li>
+              <li>High performance with advanced techniques utilized JavaScript Ajax and Web API</li>
+          </ul>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
