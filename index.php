@@ -68,7 +68,8 @@
         <div class="col-lg-4" id="Web-Application">
             <img class="img-circle" src="images/web_crystal.jpg" alt="Generic placeholder image" width="140" height="140">
           <h2>Web Application</h2>
-          <p>Despite the technical demanding, Web application definitively is replacing traditional thick client server application model as former has superior advantage to be run on different devices and low cost for deployment over Internet.  We have years of web development experience and excel in this area.</p>
+          <p>Despite technical demanding, Web application with HTML5 supported definitively is replacing traditional thick client server application model as former has superior advantage 
+              to run on different devices with low cost for deployment and great extensiblity.  We have years of web development experience and excel in this area.</p>
           <p><a class="btn btn-default" href="#web-development" role="button">View details »</a></p>
         </div><!-- /.col-lg-4 -->          
         <div class="col-lg-4"  id="software-development">
@@ -93,7 +94,11 @@
       <div class="row featurette" id="web-development">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Finding web development experts? <span class="text-muted">We are here to help.</span></h2>
-          <p class="lead">Web application development is always hard as it requires to overcome different browsers and version compatability issues.  Request and response messages model between web server and browser adds another layer of complexity to keep application states.</p>
+          <p class="lead">We offer web development to serve users from desktop PCs, notebook, pads and mobiles with CSS3 responisive web design (RWD).  Also, with HTML5, we can help you to develop
+               applications running rich in features which are comparable to Windows rich clients.  Also, we have rich experience in building web sites backed up by different databases and xml files based on 
+               different requirements.  Moreover, we will choose the most suitable technology including Ajax, Web API and OData and MVC to help you to develop high performance applications.<br /><br />
+               We know security is always a big concern for Internet facing web applications and so our design put security consideration at first place and adopt highest level of protection for every new project.         
+          </p>
         </div>
         <div class="col-md-5 col-md-pull-7">
             <img class="featurette-image img-responsive center-block" src="images/multi-form-factor.jpg" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -105,20 +110,25 @@
       
       <div class="row featurette" id="multiple-development">
         <div class="col-md-7">
-          <h2 class="featurette-heading">High quality software makes the difference. <span class="text-muted">It'll multiply company's productivity.</span></h2>
-          <p class="lead">High quality software is not just only bug free but it evolves over time. Since, we know you are concerned today's software cannot be easily extended with business requirement, we have putted huge effort that includes utilizing proven modern software engineering, adopting most frequent used programming languages, ensuring good response time and taking care easy of maintenance.</p>
+          <h2 class="featurette-heading">High quality software makes the difference. <span class="text-muted">It helps promote business and multiply productivity.</span></h2>
+          <p class="lead">High quality software is not just a working program but it evolves over time. Since, we know business is ever changing and today's software may not 
+              be enough to support future business requirements, so we have putted a lot of effort that includes utilizing proven modern software engineering, adopting most frequent used programming languages, 
+              ensuring good response time and with balancing with easy of maintenance.</p>
           <p class="lead">The following shortlisted tools, languages, frameworks and techniques are used in our team:</p>
           <ul>
-              <li>Visual Studio 2013</li>
+              <li>Visual Studio 2015</li>
               <li>C# language</li>
               <li>HTML5</li>
               <li>LESS and SCSS - CSS Authoring Framework</li>
               <li>jQuery</li>
+              <li>AngularJS</li>
+              <li>CoffeeScript</li>
+              <li>ASP.NET Webform and MVC</li>
+              <li>Web API and OData</li>
               <li>Microsoft Team Foundation Server</li>
               <li>Microsoft SQL Server, Integration Service and Reporting Service</li>
               <li>Microsoft SQL Server</li>
               <li>.NET Framework 4.5</li>
-              <li>ASP.NET Webform and MVC</li>
               <li>Microsoft Office OpenXML API</li>
               <li>Microsoft Unity Dependance Injection</li>
               <li>Entity Framework and NHibernate Object to Relational Mapping framework</li>
@@ -136,12 +146,14 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Web based ERP System. <span class="text-muted">High performance ERP system you are looking for.</span></h2>
           <p class="lead">Our ERP system is based on web application.  This makes zero deployment effort to each client as only browser is required.
-            As web server can be putted in any country and city, you can choose where to centralized your company's database.  A typical example is installed the web server in Hong Kong and serves clients in China.</p>
+            As web server can be putted in any location, city and country, you can choose where to centralize company's database.  
+            A typical example is installed the web server in Hong Kong and serves clients in China.</p>
           <p class="lead">Our ERP system has the following characteristics:</p>          
           <ul>
               <li>HTML 5 is enabled whenever browser is supported so that user can have richer usage experience</li>
-              <li>Responsive Web Design (RWD) for web pages that can be viewed using many different devices: desktops, tablets, and phones and still look good, and be easy to use.</li>
+              <li>Responsive Web Design (RWD) for web pages that can be viewed using many different devices: desktops, tablets, and phones and still looked good, and be easy to use.</li>
               <li>High performance with advanced techniques utilized JavaScript Ajax and Web API</li>
+              <li>Easy to scale up and scale out with number of users using greater bandwidth, more powerful server and adding servers in load balancing setup</li>
           </ul>
         </div>
         <div class="col-md-5">
