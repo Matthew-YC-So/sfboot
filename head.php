@@ -51,9 +51,9 @@
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-				<li class="active"><a href="#"><?php echo $msg["Home"]; ?></a></li>
-				<li><a href="#about"><?php echo $msg["About"]; ?></a></li>
-				<li><a href="#contact"><?php echo $msg["Contact"]; ?></a></li>
+				<li class="active"><a href="index.php?lang=<?php echo $lang ?>"><?php echo $msg["Home"]; ?></a></li>
+				<li><a href="about.php?lang=<?php echo $lang ?>"><?php echo $msg["About"]; ?></a></li>
+                                <li><a href="contact.php?lang=<?php echo $lang ?>"><?php echo $msg["Contact"]; ?></a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?php echo $msg["Language"]; ?> <span class="caret"></span></a>
 					<ul class="dropdown-menu">

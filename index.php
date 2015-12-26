@@ -135,7 +135,7 @@
           </ul>
         </div>
         <div class="col-md-5">
-            <img class="featurette-image img-responsive center-block" src="images/mutiple_development.jpg" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-responsive center-block" src="images/mutiple_development.jpg" data-src="holder.js/500x500/auto" alt="Multiple development">
         </div>
       </div>
 
@@ -157,7 +157,7 @@
           </ul>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+            <img class="featurette-image img-responsive center-block" src="images/ERP_2.jpg"  data-src="holder.js/500x500/auto" alt="ERP System">
         </div>
       </div>
 
@@ -170,5 +170,5 @@
       <?php require_once("footer.php"); ?>
 
     </div><!-- /.container -->
-
+   <!-- FOOTER -->
 <?php require_once("foot.php"); ?>
