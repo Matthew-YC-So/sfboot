@@ -67,22 +67,22 @@
       <div class="row">
         <div class="col-lg-4" id="Web-Application">
             <img class="img-circle" src="images/web_crystal.jpg" alt="Generic placeholder image" width="140" height="140">
-          <h2>Web Application</h2>
+          <h2><?php echo $msg["Web Application"]; ?></h2>
           <p>Despite technical demanding, Web application with HTML5 supported definitively is replacing traditional thick client server application model as former has superior advantage 
               to run on different devices with low cost for deployment and great extensiblity.  We have years of web development experience and excel in this area.</p>
-          <p><a class="btn btn-default" href="#web-development" role="button">View details »</a></p>
+          <p><a class="btn btn-default" href="#web-development" role="button"><?php echo $msg["View details"]; ?> »</a></p>
         </div><!-- /.col-lg-4 -->          
         <div class="col-lg-4"  id="software-development">
             <img class="img-circle" src="images/software.jpg" alt="Software Development" width="140" height="140">
-          <h2>Software Development Outsourcing</h2>
+          <h2><?php echo $msg["Software Development Outsourcing"]; ?></h2>
           <p>Software development is never an easy task and requires a lot of expertise and subjected to high costs.  We have rich experience and broad technical knowledge that help companies in developing advanced software.</p>
-          <p><a class="btn btn-default" href="#multiple-development" role="button">View details »</a></p>
+          <p><a class="btn btn-default" href="#multiple-development" role="button"><?php echo $msg["View details"]; ?> »</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
             <img class="img-circle" src="images/erp.jpg" alt="ERP System" width="140" height="140">
-          <h2>ERP System</h2>
+          <h2><?php echo $msg["ERP System"]; ?></h2>
           <p>Our EPR system is a web application that runs on any device over Internet.  No VPN is required and geographically diverse location is not an issue.</p>
-          <p><a class="btn btn-default" href="#erp-details" role="button">View details »</a></p>
+          <p><a class="btn btn-default" href="#erp-details" role="button"><?php echo $msg["View details"]; ?> »</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -120,6 +120,7 @@
               <li>C# language</li>
               <li>HTML5</li>
               <li>LESS and SCSS - CSS Authoring Framework</li>
+              <li>Bootstrap CSS Framework</li>
               <li>jQuery</li>
               <li>AngularJS</li>
               <li>CoffeeScript</li>
