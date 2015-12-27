@@ -10,11 +10,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+    <meta name="description" content="Software Force services include web development, application developement out sourcing and ERP package">
+    <meta name="author" content="Software Force">
+    <link rel="icon" href="favicon.ico">
 
-    <title>Software Force Website</title>
+    <title>Software Force</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.min.css" rel="stylesheet">
