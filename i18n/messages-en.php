@@ -12,6 +12,7 @@ $msg = array (
         "Email" => "Email" ,
         "Address" => "Address", 
         "Address_value" => "Room 11, 8th Floor, Harry Industrial Building, NO. 49-51, Au Pui Wan Street, Fo Tan, Shatin, Hong Kong",
+        "contact_us_p1" => "Any enquiry, please use following information to contact us:",
         "about_us_p1" => "Formed in 2006, we are a group of software developers who have passion in "
         . " building high quality applications. We view software at the angle of customers and "
         . " always put priority in balancing usability, features richness and user friendiness. ",
