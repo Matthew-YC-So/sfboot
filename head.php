@@ -14,7 +14,7 @@
     <meta name="author" content="">
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-    <title>Carousel Template for Bootstrap</title>
+    <title>Software Force Website</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.min.css" rel="stylesheet">
@@ -30,7 +30,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="css/carousel.css" rel="stylesheet">
+    <link href="css/site.css" rel="stylesheet">
   </head>
   <body class = "<?php echo "lang_$lang"; ?>">
 	<!-- NAVBAR
@@ -51,9 +51,9 @@
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-				<li class="active"><a href="index.php?lang=<?php echo $lang ?>"><?php echo $msg["Home"]; ?></a></li>
-				<li><a href="about.php?lang=<?php echo $lang ?>"><?php echo $msg["About"]; ?></a></li>
-                                <li><a href="contact.php?lang=<?php echo $lang ?>"><?php echo $msg["Contact"]; ?></a></li>
+				<li <?php echo $url_basePage == "index.php" ? 'class="active"' : '';  ?> ><a href="index.php?lang=<?php echo $lang ?>"><?php echo $msg["Home"]; ?></a></li>
+				<li <?php echo $url_basePage == "about.php" ? 'class="active"' : '';  ?> ><a href="about.php?lang=<?php echo $lang ?>"><?php echo $msg["About"]; ?></a></li>
+                                <li <?php echo $url_basePage == "contact.php" ? 'class="active"' : '';  ?> ><a href="contact.php?lang=<?php echo $lang ?>"><?php echo $msg["Contact"]; ?></a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?php echo $msg["Language"]; ?> <span class="caret"></span></a>
 					<ul class="dropdown-menu">

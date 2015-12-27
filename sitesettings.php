@@ -9,4 +9,7 @@ require_once($msg_file) ;
 
 $logo = "images/logo38_222_$lang.png" ;
 
+$url = $_SERVER['PHP_SELF']; 
+$url_parts = explode('/', $url) ;
+$url_basePage = strtolower(end($url_parts));
 ?>

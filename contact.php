@@ -6,7 +6,7 @@
     <div class="col-lg-7">
         <div class="panel panel-info">
             <div class="panel-heading">
-                <h5><?php echo $msg["contact_us_p1"]; ?></h5>
+                <h5 class="panel-title"><?php echo $msg["contact_us_p1"]; ?></h5>
             </div>
             <div class="panel-body">
                 <div class="col-lg-3"><?php echo $msg["Telephone"]; ?>:</div><div class="col-lg-9">+852 3583 2530 / +852 3583 2857</div>
