@@ -19,7 +19,12 @@
     <div class="col-lg-5">
         <img class="img-responsive" src="images/contact_us.jpg"  data-src="holder.js/500x500/auto" alt='<?php echo $msg["Contact"]; ?>'>
     </div>
-    <div class="col-lg-12"><iframe src="https://mapsengine.google.com/map/embed?mid=zW5xJ8Sjc8GY.keEU1b7OTBg8" width="640" height="480"></iframe></div>
+    <p>&nbsp;</p>
+    <div class="row">
+        <div class="col-lg-12 embed-responsive embed-responsive-4by3">
+            <iframe src="https://mapsengine.google.com/map/embed?mid=zW5xJ8Sjc8GY.keEU1b7OTBg8" class="embed-responsive-item"></iframe>
+        </div>
+    </div>
     <!-- FOOTER -->
     <div class="row">
         <div class="col-lg-12">
