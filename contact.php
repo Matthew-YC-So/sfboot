@@ -25,7 +25,7 @@
         <div class="panel panel-default">
             <div class="panel-body">
                 <div class="col-lg-12 embed-responsive embed-responsive-4by3">
-                    <iframe src="https://mapsengine.google.com/map/embed?mid=zW5xJ8Sjc8GY.keEU1b7OTBg8" class="embed-responsive-item"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.812802487835!2d114.19108777599557!3d22.39841343933067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040634ed93c42b%3A0xb1376af349d1e724!2sHarry%20Industrial%20Building%2C%2049-51%20Au%20Pui%20Wan%20St%2C%20Fo%20Tan%2C%20Hong%20Kong!5e0!3m2!1sen!2suk!4v1738243586796!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
